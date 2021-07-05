@@ -1,7 +1,7 @@
 from machine import Pin,PWM
 import utime
 
-MID = 1400000
+MID = 1450000
 MIN = 1000000
 MAX = 1800000
 
