@@ -4,8 +4,11 @@ import utime
 
 pin = Pin(25, Pin.OUT)
 
+x=0
 
-
-while True:
+while x<6:
     pin.toggle()
-    time.sleep_ms(1000)
+    time.sleep_ms(1500)
+    x=x+1
+
+print("hello. Robot is starting up")
