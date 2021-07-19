@@ -2,7 +2,7 @@ import machine
 
 
 def cutton_handler(pin):
-    print("button clicked")
+    print("button clicked")  
     print(pin)
 
 button=machine.Pin(14,machine.Pin.IN,machine.Pin.PULL_DOWN)
