@@ -1,8 +1,11 @@
 # mg996rvp
 MicroPython Code for Steering Bar Car
 
-Comment out
+## Reboot
+Ctrl + D
+
+## Comment out
  Ctrl + K then press Ctrl + C
 
-uncomment Out code
+## uncomment Out code
     Ctrl + K then press Ctrl + U

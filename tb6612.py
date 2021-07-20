@@ -1,10 +1,10 @@
 from machine import Pin, PWM
 from time import sleep
 
-#Gray wire gpio19 to pwma
+#orange wire gpio19 to pwma
 #purple wire gpio18 to AIN2
 #green wire gpio17 to AIN1
-#purple#2 wire gpio16 to stby
+#gray wire gpio16 to stby
 
 pinPWMA = Pin(19, Pin.OUT)
 pinSTBY = Pin(16, Pin.OUT)
