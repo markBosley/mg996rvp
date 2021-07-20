@@ -17,5 +17,6 @@ import brianna as b
 #     x=x+1
 
 print("hello. Robot is starting up")
+#b.D2()
 #b.Distance()
 
