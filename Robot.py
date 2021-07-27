@@ -4,7 +4,7 @@ import tb6612 as t
 
 def stop_button_handler(pin):
     print("stop button clicked")  
-    t.stop()
+    t.stop()    
     #print(pin)
 
 def start_button_handler(pin):
