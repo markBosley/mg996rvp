@@ -70,6 +70,9 @@ def go():
         if distance<10:
             print(distance)
         utime.sleep(1)
+
+def testdrive():
+     servo(90)
         
 
 def stop():
