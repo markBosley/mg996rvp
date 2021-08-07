@@ -9,3 +9,8 @@ Ctrl + D
 
 ## uncomment Out code
     Ctrl + K then press Ctrl + U
+
+    
+
+![Pico Layout](img/Raspberry-Pi-Pico-Pinout.jpg)
+
